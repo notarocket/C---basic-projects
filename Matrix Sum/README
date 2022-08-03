@@ -1,0 +1,9 @@
+used to find the lowest collection of values not in the same column or row in an given matrix 
+
+note: this implementaion is not fully accurate
+
+Users can supply the algorithm with a matrix text file for it to parse through.
+
+The program outputs the sum of the lowest values
+
+Used: https://www.reddit.com/r/dailyprogrammer/comments/oirb5v/20210712_challenge_398_difficult_matrix_sum/
