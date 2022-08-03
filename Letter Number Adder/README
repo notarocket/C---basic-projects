@@ -1,0 +1,8 @@
+Basic function that can convert letters into their position in the alphabet and add them together if contained in a word
+
+Usage:
+1 - Compile/Run the program
+2 - Enter requested word in terminal
+3 - Recive Output
+
+Used challenge from - https://www.reddit.com/r/dailyprogrammer/comments/onfehl/20210719_challenge_399_easy_letter_value_sum/
